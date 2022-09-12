@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Counter</string>
     <string name="button_msg">Tap</string>
-    <string name="counter">Start Counting</string>
+    <string name="counter">0</string>
 </resources>

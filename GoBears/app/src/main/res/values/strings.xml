@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Go MSU Bears</string>
+    <string name="welcome_msg">Go Bears!!</string>
 </resources>
