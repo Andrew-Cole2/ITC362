@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4ca7b99-5143-4241-b519-8c31ae5b1ab7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ITC362-FA22.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/app/src/androidTest/java/com/cole/myapplication/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/app/src/main/java/com/cole/myapplication/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/app/src/main/java/com/cole/myapplication/util/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/app/src/test/java/com/cole/myapplication/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountApp/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/app/src/androidTest/java/com/cole/hellogoodbye/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/app/src/main/java/com/cole/hellogoodbye/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/app/src/main/res/drawable/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/app/src/main/res/drawable/button_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/app/src/main/res/drawable/msg_goodbye.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/app/src/main/res/drawable/msg_hello.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/app/src/test/java/com/cole/hellogoodbye/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2EdwXDMYKUk9z9wwLuzBI6meSw4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/GoBears" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\git\ITC362-FA22\GoBears" />
+      <recent name="G:\git\ITC362-FA22" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4ca7b99-5143-4241-b519-8c31ae5b1ab7" name="Changes" comment="" />
+      <created>1662938806296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662938806296</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
